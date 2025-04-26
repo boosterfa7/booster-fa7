@@ -1,1 +1,1 @@
-# Booster FA7\n\nПроект Booster FA7: управление криптокотлом через ESP32-C3, WhatsMiner и EMCD.io.\n\nЗапуск: `python main.py`
+# Booster FA7 Проект Booster FA7: управление криптокотлом `python main.py`
